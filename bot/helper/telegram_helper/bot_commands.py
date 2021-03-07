@@ -20,5 +20,5 @@ class _BotCommands:
         self.WatchCommand = 'rwatch'
         self.TarWatchCommand = 'rtarwatch'
         self.deleteCommand = 'hapusbost'
-
+        self.UsageCommand = 'usage'
 BotCommands = _BotCommands()
