@@ -101,6 +101,7 @@ def bot_help(update, context):
 
 /{BotCommands.SpeedCommand} : Buat ngecek speed internet
 
+/{BotCommands.UsageCommand} : Bust cek sisa-sisa kehidupan dyno
 '''
     sendMessage(help_string, context.bot, update)
 
